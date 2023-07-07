@@ -13,7 +13,7 @@ The primary objective of this project is to develop a robust churn prediction mo
 ## Result
 
 ### Model Selection
-<img width="513" alt="model-selection" src="https://github.com/crypter70/Bank-Customer-Churn-Prediction/assets/74947224/d420ce6b-9757-4642-8a1e-05b350a82e80">
+<img width="514" alt="model" src="https://github.com/crypter70/Bank-Customer-Churn-Prediction/assets/74947224/c786f622-d1df-4acf-be75-d72a6787ba39">
 
 ### Confusion Matrix of AdaBoost (Best Model)
 ![confusion-matrix](https://github.com/crypter70/Bank-Customer-Churn-Prediction/assets/74947224/ab7865b7-930f-4f60-8c2c-4d964bc4a118)
