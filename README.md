@@ -12,6 +12,9 @@ The primary objective of this project is to develop a robust churn prediction mo
 
 ## Result
 
+### Distribution of Target Variabel
+![target-dist](https://github.com/crypter70/Bank-Customer-Churn-Prediction/assets/74947224/aaddfccd-b7f9-4943-be8a-febc37061fce)
+
 ### Model Selection
 <img width="514" alt="model" src="https://github.com/crypter70/Bank-Customer-Churn-Prediction/assets/74947224/c786f622-d1df-4acf-be75-d72a6787ba39">
 
